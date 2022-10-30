@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570058115180",
+    "project_id": "fir-feature-ac720",
+    "storage_bucket": "fir-feature-ac720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570058115180:android:4ff40a0bd35d05f3743049",
+        "android_client_info": {
+          "package_name": "com.thatnawfal.firebasefeature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570058115180-b61aus79765sg1i9tsdk6tasdt2g5ian.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Xbyhif9dSNn4jNHnUj8okMhvQa2koN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570058115180-b61aus79765sg1i9tsdk6tasdt2g5ian.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
